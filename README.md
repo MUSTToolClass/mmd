@@ -1,2 +1,2 @@
 # mmd
-Some file with mmdetection
+This repository is some py file, which used to run with mmdetection.
